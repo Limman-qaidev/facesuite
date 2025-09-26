@@ -1,0 +1,9 @@
+insightface
+onnxruntime
+opencv-python
+pillow
+numpy
+scikit-learn
+pandas
+pyarrow
+tqdm

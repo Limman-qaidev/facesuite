@@ -1,0 +1,27 @@
+---
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.venv/
+.env
+
+
+# OS
+.DS_Store
+Thumbs.db
+
+
+# Project artifacts
+work/
+faces_db.parquet
+faces_db.json
+*.parquet
+*.csv
+
+
+# Editors/IDE
+.vscode/
+.idea/
