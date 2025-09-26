@@ -1,5 +1,5 @@
 # FaceSuite — Face-based Photo Organizer
-
+[![.github/workflows/ci.yml](https://github.com/Limman-qaidev/facesuite/actions/workflows/ci.yml/badge.svg)](https://github.com/Limman-qaidev/facesuite/actions/workflows/ci.yml)
 **FaceSuite** scans a photo directory (images-first, then subfolders), detects faces with InsightFace, clusters common faces, exports crops for manual labeling, and then organizes your entire library into per-person folders (and a `group/` folder with multi-person photos renamed to include all detected names).
 
 ## Features
