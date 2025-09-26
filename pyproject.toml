@@ -1,0 +1,19 @@
+[project]
+name = "facesuite"
+version = "0.1.0"
+description = "Face-based photo organizer using InsightFace and DBSCAN"
+authors = [{name = "Jonathan"}]
+readme = "README.md"
+requires-python = ">=3.9"
+
+
+[tool.black]
+line-length = 100
+
+
+[tool.isort]
+profile = "black"
+
+
+[tool.ruff]
+line-length = 100
